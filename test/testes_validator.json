@@ -1,0 +1,46 @@
+[
+    {
+        "cnpj": "12345678912345",
+        "entity_name": "string",
+        "address": "string",
+        "cep": "12345678",
+        "city": "string",
+        "uf": "df",
+        "phone": "32344549",
+        "email": "string",
+        "publications": "2017-11-23T02:09:08.719Z",
+        "purposes": [
+          "string"
+        ]
+    },
+
+    {
+        "cnpj": "12345678ds345",
+        "entity_name": "string",
+        "address": "string",
+        "cep": "12345678",
+        "city": "string",
+        "uf": "df",
+        "phone": "32344549",
+        "email": "string",
+        "publications": "2017-11-23T02:09:08.719Z",
+        "purposes": [
+          "string"
+        ]
+    },
+
+    {
+        "cnpj": "12345678912345",
+        "entity_name": "string",
+        "address": "string",
+        "cep": "12345678",
+        "city": "string",
+        "uf": "sadfu",
+        "phone": "32344549",
+        "email": "string",
+        "publications": "2017-11-23T02:09:08.719Z",
+        "purposes": [
+          "string"
+        ]
+    }
+]
