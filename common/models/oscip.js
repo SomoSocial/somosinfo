@@ -3,7 +3,7 @@
 module.exports = function(Oscip) {
   Oscip.validatesPresenceOf(
     'cnpj',
-    'entity_name',
+    'name',
     'address',
     'cep',
     'city',
