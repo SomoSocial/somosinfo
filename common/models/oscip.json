@@ -1,5 +1,5 @@
 {
-  "name": "OSCIP",
+  "name": "oscip",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
@@ -45,9 +45,7 @@
       "required": true
     },
     "purposes": {
-      "type": [
-        "string"
-      ],
+      "type": "string",
       "required": true
     }
   },
